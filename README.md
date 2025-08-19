@@ -35,20 +35,12 @@ WebsiteScarper is a Python-based utility that **automatically crawls dynamic web
 
 **Basic Example**:
 ```
-python main.py --url "https://example.com" --output "output.docx"
+python main.py 
 ```
 
-*Command line arguments:*
-- `--url`: Target website's root URL to crawl.
-- `--output`: Destination filename for the Word document.
-- (Optional) `--depth`: Maximum recursive depth (default: 200).
-- (Optional) `--headless`: Run browser in headless mode.
-
-**See the `/examples` directory for real-world sample scripts.**
 
 ## Configuration
 
-Edit the `config.py` file to tweak:
 - Crawl delay/timeout
 - Custom user-agent
 - Inclusion/exclusion URL patterns
