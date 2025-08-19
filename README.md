@@ -8,7 +8,7 @@ WebsiteScarper is a Python-based utility that **automatically crawls dynamic web
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Contributing](#contributing)
+
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -47,10 +47,6 @@ python main.py
 - Selenium browser options
 
 
-
-## Contributing
-
-Contributions are welcome! Feel free to open issues, submit feature requests, or create pull requests. Please review and follow the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines.
 
 ## License
 
