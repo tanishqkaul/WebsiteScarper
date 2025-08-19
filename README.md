@@ -63,5 +63,4 @@ This repository is licensed under the MIT License — see [`LICENSE`](LICENSE) f
 
 ---
 
-For questions or support, please open an issue or contact the maintainer.
-```
+
