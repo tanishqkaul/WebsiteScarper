@@ -8,8 +8,6 @@ WebsiteScarper is a Python-based utility that **automatically crawls dynamic web
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [File Structure](#file-structure)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
@@ -55,21 +53,6 @@ Edit the `config.py` file to tweak:
 - Custom user-agent
 - Inclusion/exclusion URL patterns
 - Selenium browser options
-
-## File Structure
-
-```
-.
-├── main.py              # Entry point; parses args and launches crawler
-├── scraper.py           # Core scraping logic using Selenium
-├── doc_exporter.py      # Word document (.docx) generation utilities
-├── requirements.txt     # Dependencies list
-├── examples/            # Demonstrative scripts and docs
-├── config.py            # Customizable settings
-└── README.md            # This file
-```
-
-## Examples
 
 
 
